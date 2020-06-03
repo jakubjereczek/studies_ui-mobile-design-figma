@@ -17,7 +17,6 @@ Login                      |  Register
 :-------------------------:|:-------------------------:
 ![First Figma Design](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Initial.jpg)|![Register](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Register.jpg)
 Profile                    |  Divices 
-:-------------------------:|:-------------------------:
 ![Profile](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Profil.jpg)|![Divices](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Urzadzenia.jpg)
 
 
