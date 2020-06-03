@@ -15,7 +15,8 @@ Intefejs graficzny aplikacji typu Smart home.
 
 Login and register          |  Job Categories Screen
 :-------------------------:|:-------------------------:
-![First Figma Design](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Initial.jpg)|![Job Listings](https://user-images.githubusercontent.com/19711677/81026691-9067e300-8e40-11ea-8153-0030aaf11ae3.png)
+![First Figma Design](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Initial.jpg)|![Register](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Register.jpg)
+
 ![Register](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Register.jpg)
 Job Categories Screen  |  Client List Screen
 :-------------------------:|:-------------------------:
