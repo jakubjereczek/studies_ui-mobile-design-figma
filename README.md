@@ -1,4 +1,4 @@
-# ui-design figma
+# ui-mobile-design-figma
 Sample mobile application interface I designed using Figma.
 
 ## Table of contents
@@ -31,6 +31,7 @@ Rooms - management         |  Divices - management
 Rooms - configuration         |  Divices - configuration
 :-------------------------:|:-------------------------:
 ![Rooms managment](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Pokoj%20-%20zarzadzanie%20-%20konfiguracja.jpg)|![Divices managment](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Urzadzenie%20-%20zarzadzanie%20-%20konfiguracja.jpg)
+
 More screenshots in the project repository.
 
 ## Technologies
