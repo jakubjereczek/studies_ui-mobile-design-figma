@@ -13,14 +13,12 @@ Intefejs graficzny aplikacji typu Smart home.
 
 ## Screenshots
 
-Login and register          |  Job Categories Screen
+Login                      |  Register
 :-------------------------:|:-------------------------:
 ![First Figma Design](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Initial.jpg)|![Register](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Register.jpg)
-
-![Register](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/login%20and%20register/Register.jpg)
-Job Categories Screen  |  Client List Screen
+Profile                    |  Divices 
 :-------------------------:|:-------------------------:
-![Job Listings](https://user-images.githubusercontent.com/19711677/81029657-75e73700-8e4b-11ea-90b6-646ec42aee43.png)|![Category Jobs](https://user-images.githubusercontent.com/19711677/81029655-71bb1980-8e4b-11ea-98ba-f2dba813932d.png)
+![Profile](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Profil.jpg)|![Divices](https://raw.githubusercontent.com/jakubjereczek/ui-design-figma/master/app/Urzadzenia.jpg)
 
 
 ## Technologies
